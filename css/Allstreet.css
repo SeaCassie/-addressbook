@@ -1,0 +1,31 @@
+/*导入阿里云图标库*/
+@import "//at.alicdn.com/t/font_1194352_9si34bm1lg.css";
+/*全局样式表*/
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-appearance: none;
+    -webkit-text-size-adjust:100%;
+    -webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);
+
+}
+body{
+    /*font-family: 华文宋体,微软雅黑,sans-serif;*/
+    font-size: 16px;
+    /*color: white;*/
+    font-height:1.5;
+    color: #484848;
+
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    /*取消超链接上的下划线*/
+}
+img{
+    width:100%;
+    height: 100%;
+}
