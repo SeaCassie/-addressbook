@@ -41,7 +41,7 @@ $(function () {
     // },1000)
         let input=$("input[name=seo]")
     // console.log(input);
-    input.on("click",function () {
+    input.on("input",function () {
 
         $(".rightChar").empty();
         $("section").empty();
